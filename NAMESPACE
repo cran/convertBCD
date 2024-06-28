@@ -1,0 +1,5 @@
+export("dec2bcd" ,"bcd2dec")
+
+importFrom("gmp",   "as.bigz")
+importFrom("Rmpfr",  "formatDec")
+importFrom("methods", "is")
